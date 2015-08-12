@@ -2,6 +2,7 @@
 # Maven Files #
 #-------------#
 target
+catalog
 
 #---------------------------#
 # Anypoint Studio / Eclipse #
@@ -23,4 +24,4 @@ target
 #------------------#
 activemq-data
 derby.log
-catalog
+
